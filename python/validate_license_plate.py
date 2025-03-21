@@ -24,7 +24,6 @@ def validate_license_plate(license_plate, constraints):
 
     return True
 
-# Exemplo de uso
 constraints = load_constraints("brasil.cnf")
 license_plate = input("Digite a placa do veículo: ")
 
