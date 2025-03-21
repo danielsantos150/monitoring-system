@@ -25,7 +25,7 @@ Ele permite gerenciar informações dos servidores, associar sistemas hospedados
 1 - Clone o repositório
 
 ```bash
-    git clone https://github.com/seuusuario/monitoring-system.git
+    git clone https://github.com/danielsantos150/monitoring-system.git
     cd monitoring-system
 ```
 
